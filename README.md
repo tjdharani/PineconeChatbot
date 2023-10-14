@@ -1,2 +1,2 @@
 # PineconeChatbot
-ChatBot using Memory
+ChatBot with Memory using RAG (Pinecone), OpenAI API.
